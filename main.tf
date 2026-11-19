@@ -3,7 +3,7 @@ terraform {
 }
 
 locals {
-  test = "Hello World!"
+  test = "Hello World!!!!!"
 }
 
 output "test" {
